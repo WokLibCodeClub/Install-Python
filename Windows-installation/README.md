@@ -27,12 +27,9 @@ When the Control Panel opens if there is an item called "System" then click on t
 
 If there isn't an icon called "System" but there is a category called "System and Security" then click on this then click on "System" in the new display.
 
-For Windows 7 the display will look like this:
-
-![alt text](Windows7_OS.png "Operating system")
+The display will look very similar to the Windows 7 display shown above.
 
 The item labelled "System type:" will show you whether your operating system is 32-bit or 64-bit.
-
 
 
 ### 2. Go to the Python Releases for Windows download web page
@@ -47,7 +44,7 @@ Here is what the link looks like:
 
 From the two options at the top of the page select the one called "Latest Python 3 Release"
 
-In this example the latest Python version is 3.7.3, but this might be different if you download Python later.
+In this example the latest Python version is 3.7.3, but this might be different if you download Python at a later time.
 
 The link will go to a page which looks like this (again, the version number might not be 3.7.3):
 
@@ -67,3 +64,36 @@ Open Windows Explorer (if you have Windows 7) or File Explorer (if you have Wind
 You will probably see a window like this:
 
 ![alt text](Security_warning.png "Security Warning")
+
+Click Run. This will open the first Set up window:
+
+![alt text](Setup_1.png "Setup 1")
+
+Make sure there is a tick in the box labelled "Add Python to PATH". (You might have to click in this box.)
+
+Then click on Customize installation. This will open the second Set up window:
+
+![alt text](Setup_2.png "Setup 2")
+
+There is nothing to be changed on this page, so click Next to open the third Set up window:
+
+![alt text](Setup_3_advised.png "Setup 3")
+
+When this window opens it will probably show the Customize install location as C:\Users\<your name>\AppData...\Python37
+
+We strongly recommend changing this to C:\Python\Python37
+
+(Note: if you are installing a later version of Python the number 37 might be replaced with a higher number.)
+
+Once you have changed to install location click on Install. This will probably open a window like this:
+
+![alt text](UAC.png "Setup 3")
+
+Click on Yes to complete the Python installation. This may take a few minutes.
+
+
+### 4. Open the Python IDLE editor
+
+Once the installation is finished click on the Windows key. Type the word Python, and it should find a program called IDLE (with the Python version in brackets after it).
+
+Click on this to open up the Python Shell window. 
