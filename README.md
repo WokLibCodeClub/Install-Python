@@ -6,6 +6,6 @@ We will improve the instructions for Mac computers when we find out more about t
 
 [Go to Windows installation instructions](Windows-installation)
 
-[Go to mac installation instructions](macOS-installation)
+[Go to Mac installation instructions](MacOS-installation)
 
 

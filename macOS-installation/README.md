@@ -1,15 +1,15 @@
-Instructions for installing Python on a mac computer
+Instructions for installing Python on a Mac computer
 ====================================================
 
-As I don't have a mac computer I can't include screen shots to show how the process works. Here is a link to a website which gives instructions.
+As I don't have a Mac computer I can't include screen shots to show how the process works. Here is a link to a website which gives instructions.
 
-[https://wsvincent.com/install-python3-mac/](https://wsvincent.com/install-python3-mac/)
+[https://wsvincent.com/install-python3-Mac/](https://wsvincent.com/install-python3-Mac/)
 
-mac computers have the older Python version Python 2 already installed, but programmers now use Python 3, which has a lot of new commands, so it is preferable to install Python 3 as described.
+Mac computers have the older Python version Python 2 already installed, but programmers now use Python 3, which has a lot of new commands, so it is preferable to install Python 3 as described.
 
-The instructions on the website involve using the mac program called *Terminal*. Here are instructions on how to open Terminal.
+The instructions on the website involve using the Mac program called *Terminal*. Here are instructions on how to open Terminal.
 
-### How to open Terminal on Mac
+### How to open Terminal on a Mac
 
 The Terminal app is in the Utilities folder in Applications. To open it, either open your Applications folder, then open Utilities and double-click on Terminal, or press Command - spacebar to launch Spotlight and type "Terminal," then double-click the search result.
 
