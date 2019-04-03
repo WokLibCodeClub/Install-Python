@@ -97,3 +97,8 @@ Click on Yes to complete the Python installation. This may take a few minutes.
 Once the installation is finished click on the Windows key. Type the word Python, and it should find a program called IDLE (with the Python version in brackets after it).
 
 Click on this to open up the Python Shell window. 
+
+![alt text](PythonShell.png "Shell")
+
+You are now ready to start experimenting with Python!
+
