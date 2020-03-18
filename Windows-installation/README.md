@@ -100,5 +100,7 @@ Click on this to open up the Python Shell window:
 
 ![alt text](PythonShell.png "Shell")
 
+Click to open the File menu and choose New... to open a blank Python programme.
+
 You are now ready to start experimenting with Python!
 
