@@ -1,4 +1,6 @@
-# Instructions for installing Python3 on a Windows computer
+# Instructions for full installation of Python3 on a Windows computer
+
+These instructions show how to find, download and install the latest version of Python3. There is a code editor, called *IDLE*, included with this installation, which will enable you to start writing Python3 code, but it is a fairly basic editor, and much better ones are available. At the end of this page there are links to other pages showing how you can obtain alternative code editors.
 
 ## 1. Find out if your Windows Operating System is 32-bit or 64-bit
 
