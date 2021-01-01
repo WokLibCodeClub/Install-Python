@@ -9,7 +9,7 @@ As I don't have a Mac computer I can't include screen shots to show how the proc
 
 Mac computers in the past have had the older Python version Python 2 already installed, but programmers now use Python 3, which has a lot of new commands, so it is preferable to install Python 3 as described. (From MacOS version 10.15 onwards Python 2 is *no longer* installed.)
 
-The instructions on the website involve using the Mac program called *Terminal*. Here are instructions on how to open Terminal.
+The instructions on these websites involve using the Mac program called *Terminal*. Here are instructions on how to open Terminal.
 
 ### How to open Terminal on a Mac
 
