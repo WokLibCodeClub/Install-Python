@@ -104,13 +104,39 @@ Click on Yes to complete the Python installation. This may take a few minutes.
 
 ### 4. Open the Python IDLE editor
 
-Once the installation is finished click on the Windows key. Type the word Python, and it should find a program called IDLE (with the Python version in brackets after it).
+Once the installation is finished click on the Windows key. Type the word "Python" or "IDLE", and it should find a program called IDLE (with the Python version in brackets after it).
 
 Click on this to open up the Python Shell window:
 
-![alt text](PythonShell.png "Shell")
+![Shell1](PythonShell.png "Shell")
 
-Click to open the File menu and choose New... to open a blank Python programme.
+Click to open the File menu and choose New... 
 
-You are now ready to start experimenting with Python!
+![Shell2](PythonShell2.png "Shell2")
+
+to open a blank Python programme window which will be called "Untitled". You can type your Python3 code in this window.
+
+![Programme1](Pythonprog1.png "prog1")
+
+You need to *save* your code before you can test it. Do this by choosing the File menu and clicking Save As...
+
+![Programme2](Pythonprog2.png "prog2")
+
+Once you've *saved* your code, which should be in a file which has the extension ```.py``` you can test it by choosing the Run menu and clicking Run
+
+![Programme3](Pythonprog3.png "prog3")
+
+This example code will produce output in the Python shell.
+
+You are now ready to start experimenting with Python3 coding!
+
+### 5. Alternative Python editors
+
+As stated at the start of this page the IDLE editor is very basic. Here are links to pages which describe some alternative Python editors:
+
+* Visual Studio Code
+
+* Atom
+
+* Thonny
 
