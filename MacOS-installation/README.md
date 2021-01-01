@@ -15,6 +15,6 @@ The instructions on these websites involve using the Mac program called *Termina
 
 The Terminal app is in the Utilities folder in Applications. To open it, either open your Applications folder, then open Utilities and double-click on Terminal, or press Command - spacebar to launch Spotlight and type "Terminal," then double-click the search result.
 
-You�ll see a small window with a white background open on your desktop. In the title bar are your username, the word "bash" and the dimensions of the window in pixels.
+You'll see a small window with a white background open on your desktop. In the title bar are your username, the word "bash" and the dimensions of the window in pixels.
 
-If you want to make the window bigger, click on the bottom right corner and drag it outwards. If you don�t like the black text on a white background, go to the Shell menu, choose New Window and select from the options in the list.
+If you want to make the window bigger, click on the bottom right corner and drag it outwards. If you don't like the black text on a white background, go to the Shell menu, choose New Window and select from the options in the list.
