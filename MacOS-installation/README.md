@@ -11,7 +11,7 @@ Mac computers in the past have had the older Python version Python 2 already ins
 
 The instructions on these websites involve using the Mac program called *Terminal*. Here are instructions on how to open Terminal.
 
-### How to open Terminal on a Mac
+### How to open **Terminal** on a Mac
 
 The Terminal app is in the Utilities folder in Applications. To open it, either open your Applications folder, then open Utilities and double-click on Terminal, or press Command - spacebar to launch Spotlight and type "Terminal," then double-click the search result.
 
