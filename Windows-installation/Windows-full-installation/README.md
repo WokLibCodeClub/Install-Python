@@ -122,7 +122,7 @@ You need to *save* your code before you can test it. Do this by choosing the Fil
 
 ![Programme2](Pythonprog2.png "prog2")
 
-Once you've *saved* your code, which should be in a file which has the extension ```.py``` you can test it by choosing the Run menu and clicking Run
+Once you've *saved* your code, which should be in a file which has the extension ```.py``` you can test it by choosing the Run menu and clicking Run Module
 
 ![Programme3](Pythonprog3.png "prog3")
 
