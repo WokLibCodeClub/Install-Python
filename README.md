@@ -6,9 +6,9 @@ The instructions below are for installations on Windows computers and Mac/Apple 
 
 We will improve the instructions for Mac/Apple computers when we find out more about them!
 
-[Go to Windows installation instructions](Windows-installation)
+* [Go to Windows installation instructions](Windows-installation)
 
-[Go to Mac installation instructions](MacOS-installation)
+* [Go to Mac installation instructions](MacOS-installation)
 
 ## A note about Python2 and Python3
 
