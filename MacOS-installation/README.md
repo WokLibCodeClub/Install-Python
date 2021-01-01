@@ -1,7 +1,7 @@
 Instructions for installing Python on a Mac computer
 ====================================================
 
-As I don't have a Mac computer I can't include screen shots to show how the process works. Here are links to a couple of websites which gives instructions.
+As I don't have a Mac computer I can't include screen shots to show how the process works. Here are links to a couple of websites which give instructions.
 
 [https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos)
 
