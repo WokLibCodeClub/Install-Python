@@ -1,6 +1,6 @@
-# Install Python on your own computer
+# Install Python3 on your own computer
 
-You may have been writing Python code *online* using a website like [trinket](https://trinket.io/) but sooner or later you will find sites like this have limitations and don't allow you to use the full range of Python functions. To get access to the full Python language you will need to have Python installed on your own computer. This section contains instructions for installing Python3 on your own computer.
+You may have been writing Python code *online* using a website like [trinket](https://trinket.io/) but sooner or later you will find sites like this have limitations and don't allow you to use the full range of Python functions. To get access to the full Python3 language you will need to have Python3 installed on your own computer. This section contains instructions for installing Python3 on your own computer.
 
 The instructions below are for installations on Windows computers and Mac/Apple computers. The Windows instructions are more detailed because the person writing them uses Windows computers!
 
