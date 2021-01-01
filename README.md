@@ -4,7 +4,7 @@ You may have been writing Python code *online* using a website like [trinket](ht
 
 The instructions below are for installations on Windows computers and Mac/Apple computers. The Windows instructions are more detailed because the person writing them uses Windows computers!
 
-We will improve the instructions for Mac/Apple computers when we find out more about them!
+We will improve the instructions for MacOS computers when we find out more about them!
 
 * [Go to Windows installation instructions](Windows-installation)
 
