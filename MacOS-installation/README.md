@@ -1,5 +1,4 @@
-Instructions for installing Python 3 on a Mac computer
-====================================================
+# Instructions for installing Python 3 on a Mac computer
 
 As I don't have a Mac computer I can't include screen shots to show how the process works. Here are links to a couple of websites which give instructions.
 
