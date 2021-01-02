@@ -134,7 +134,7 @@ You are now ready to start experimenting with Python3 coding!
 
 As stated at the start of this page the IDLE editor is very basic. Here are links to pages which describe some alternative Python editors:
 
-* Visual Studio Code
+* [Visual Studio Code](./Install-VSC)
 
 * Atom
 
