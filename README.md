@@ -15,3 +15,9 @@ We will improve the instructions for MacOS computers when we find out more about
 Python has been around since 1991 and has had various versions since then. The most recent version is Python3, which came out in 2008, and this is the version you should install on your computer. The previous version, Python2, which came out in 2000, is very different from Python3, and many of the common functions work in a different way between Python2 and Python3.
 
 The problem is that there is a great deal of material still on the internet which describes how to do coding using Python2. If you are using the internet to get help with your coding, you need to be careful to make sure you are looking at *Python3* examples. Some webpages will make this clear, but not every one will. A good tip, when you are doing an internet search, is to include the term "Python3" in your search string.
+
+## Website with detailed instructions
+
+This website gives detailed instructions for installing Python on your computer. It covers more options that these github pages.
+
+[https://realpython.com/installing-python/](https://realpython.com/installing-python/)
