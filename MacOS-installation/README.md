@@ -6,6 +6,8 @@ As I don't have a Mac computer I can't include screen shots to show how the proc
 
 * [https://installpython3.com/mac/](https://installpython3.com/mac/)
 
+* [https://realpython.com/installing-python/#how-to-install-python-on-macos](https://realpython.com/installing-python/#how-to-install-python-on-macos)
+
 Mac computers in the past have had the older Python version Python 2 already installed, but programmers now use Python 3, which has a lot of new commands, so it is much better to install Python 3 as described. (From MacOS version 10.15 onwards Python 2 is *no longer* installed.)
 
 The instructions on these websites involve using the Mac programme called *Terminal*. Here are instructions on how to open Terminal.
