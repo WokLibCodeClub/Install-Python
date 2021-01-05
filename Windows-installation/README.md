@@ -2,9 +2,11 @@
 
 There are two options:
 
-1. Full Python installation\
+1. [Full Python installation](Windows-full-installation)
 
- This option takes
+ This option involves downloading the Python installation file from Python's home website at www.python.org.
+
+
 
 2. Simplified Python installation combined with *mu* editor
 
