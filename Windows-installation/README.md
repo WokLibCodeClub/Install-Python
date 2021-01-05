@@ -2,7 +2,7 @@
 
 There are two options:
 
-1. [Full Python installation](Windows-full-installation)
+1. [Full Python installation](Windows-full-installation/README.md)
 
  This option involves downloading the Python installation file from Python's home website at www.python.org.
 
