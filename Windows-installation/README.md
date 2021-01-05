@@ -6,7 +6,7 @@ There are two options:
 
  This option takes
 
-2. Simplified Python installation combined with mu editor
+2. Simplified Python installation combined with *mu* editor
 
 Another place you can find similar instructions is on the Raspberry Pi Foundation website at:
 
