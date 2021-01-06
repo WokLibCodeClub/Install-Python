@@ -16,6 +16,8 @@ For Windows you should know from doing the Python installation whether your syst
 
 Save the downloaded file to your computer, and double-click on the file to run the installation.
 
+
+
 ## Setting up *Visual Studio Code*
 
 Watch the introductory video at
