@@ -60,7 +60,7 @@ Scroll down until you find a section headed **Files**
 
 Click the file link depending on whether your operating system is 32-bit or 64-bit. The file will either start downloading straight away into your Downloads folder, or you may be asked where on your computer you want to save the file. Choose where to save it, then click OK.
 
-### 3. Run the installation program
+## 3. Run the installation program
 
 Open File Explorer (if you have Windows 8 or 10) or Windows Explorer (if you have Windows 7) and navigate to the place where the Python installation file has been saved. Double click on this file to start the installation.
 
@@ -74,7 +74,7 @@ Click Yes. This will open the first Set up window:
 
 Make sure there is a tick in the box labelled "Add Python to PATH". (You might have to click in this box.)
 
-Then click on Customize installation. This will open the second Set up window:
+Then click on *Customize installation*. This will open the second Set up window:
 
 ![Optional Features](Setup_2.png "Setup 2")
 
@@ -96,15 +96,15 @@ We strongly recommend changing this to ```C:\Python\Python37```. This will make 
 
 (Note: if you are installing a later version of Python the number 37 should be replaced with a higher number.)
 
-Once you have changed to install location click on Install. This will probably open another *User Account Control* window, like the one above.
+Once you have changed the install location click on Install. This will probably open another *User Account Control* window, like the one above.
 
 Click on Yes to complete the Python installation. This may take a few minutes.
 
-### 4. Open the Python IDLE editor
+## 4. Open the Python IDLE editor
 
-Once the installation is finished click on the Windows key. Type the word "Python" or "IDLE", and it should find a program called IDLE (with the Python version in brackets after it).
+Once the installation is finished click on the Windows icon or press the Windows key on the keyboard. Type the word "Python" or "IDLE", and it should find a program called IDLE (with the Python version in brackets after it).
 
-Click on this to open up the Python Shell window:
+Click on this to open up the *Python Shell* window:
 
 ![Shell1](PythonShell.png "Shell")
 
@@ -128,13 +128,8 @@ This example code will produce output in the Python shell.
 
 You are now ready to start experimenting with Python3 coding!
 
-### 5. Alternative Python editors
+## 5. Alternative Python editors
 
-As stated at the start of this page the IDLE editor is very basic. Here are links to pages which describe some alternative Python editors:
+As stated at the start of this page the IDLE editor is very basic. One of the superior code editors is called *Visual Studio Code*, which is distributed for free by *Microsoft*. Here is a link to a page with instructions for adding *Visual Studio Code*:
 
 * [Visual Studio Code](./Install-VSC)
-
-* Atom
-
-* Thonny
-
