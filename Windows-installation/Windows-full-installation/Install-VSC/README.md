@@ -8,7 +8,7 @@ How to find, download and install the latest version of *Visual Studio Code*:
 
 * Go to the [download page](https://code.visualstudio.com/#alt-downloads)
 
-![Download options](VSC-1.png "Downloads")
+![Download options](Images/VSC-1.png "Downloads")
 
 and select the version for your operating system.
 
