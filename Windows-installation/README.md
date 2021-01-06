@@ -18,13 +18,13 @@ There are a couple of options where you choose a dedicated Python code editor, a
 
 * [Install the *mu* code editor with Python included](Windows-mu-installation/README.md)
 
-## Python installation advice from Raspberry Pi Foundation
+### Python installation advice from Raspberry Pi Foundation
 
 You can find a detailed set of instructions for installing Python on your computer on the Raspberry Pi Foundation website at:
 
 * [https://projects.raspberrypi.org/en/projects/python-install-options](https://projects.raspberrypi.org/en/projects/python-install-options)
 
-## Python installation advice from realpython.com
+### Python installation advice from realpython.com
 
 Here is another website which explains the difference between Code Editors and Integrated Development Environments, and suggests some other code editors you can use with Python:
 
