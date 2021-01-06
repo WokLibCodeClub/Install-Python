@@ -72,7 +72,7 @@ Click Yes. This will open the first Set up window:
 
 ![Install Python](Setup_1.png "Setup 1")
 
-Make sure there is a tick in the box labelled "Add Python to PATH". (You might have to click in this box.)
+If there is a tick box at the bottom labelled "Add Python to PATH" then make sure there is a tick in the box. (This box may have been removed in later versions of Python.)
 
 Then click on *Customize installation*. This will open the second Set up window:
 
