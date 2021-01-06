@@ -14,7 +14,7 @@ There are two main options:
 
 ## Python installation combined with a dedicated Python editor
 
-There are a couple of options where you choose a dedicated Python code editor, and it comes packaged with its own version of Python. One of these options is called *Thonny*, but the link below shows how you can install the *mu* editor for Python coding.
+There are a couple of options where you choose a dedicated Python code editor, and it comes packaged with its own version of Python. One of these editors is called [*Thonny*](), but the link below shows how you can install the *mu* editor for Python coding.
 
 * [Install the *mu* code editor with Python included](Windows-mu-installation/README.md)
 
