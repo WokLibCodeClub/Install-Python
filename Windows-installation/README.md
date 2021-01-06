@@ -14,12 +14,12 @@ There are two main options:
 
 ## Python installation combined with a dedicated Python editor
 
-There are a couple of options where you choose a dedicated Python code editor, and it comes packaged with its own version of Python. One of these editors is called [*Thonny*](), but the link below shows how you can install the *mu* editor for Python coding.
+There are a couple of options where you choose a dedicated Python code editor, and it comes packaged with its own version of Python. This takes the pain out of actually installing the Python code. The link below shows how you can install the *mu* editor for Python coding.
 
 * [Install the *mu* code editor with Python included](Windows-mu-installation/README.md)
 
 ## Python installation advice from Raspberry Pi Foundation
 
-Another place you can find a detailed set of instructions for installing Python on your computer is on the Raspberry Pi Foundation website at:
+You can find a detailed set of instructions for installing Python on your computer on the Raspberry Pi Foundation website at:
 
 * [https://projects.raspberrypi.org/en/projects/python-install-options](https://projects.raspberrypi.org/en/projects/python-install-options)
