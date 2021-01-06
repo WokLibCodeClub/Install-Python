@@ -38,7 +38,7 @@ For Windows 7 the display will look like this:
 
 The item labelled "System type:" will show you whether your operating system is 32-bit or 64-bit.
 
-### 2. Go to the *Python Releases for Windows* download web page
+## 2. Go to the *Python Releases for Windows* download web page
 
 Click on the link below to go to the Python download page. If you right-click on the link you will have the option to open the Python downloads page in a new tab, and leave these instructions available to go back to.
 
@@ -48,11 +48,9 @@ Here is what the link looks like:
 
 ![Python_Releases_Windows](Releases_1.png "Python Releases for Windows")
 
-From the two options at the top of the page select the one called "Latest Python 3 Release". (DO NOT select "Latest Python 2 Release"!!)
+From the two options at the top of the page select the one called "Latest Python 3 Release". DO NOT select "Latest Python 2 Release"!! (The number of of the latest Python 3 release will be higher then 3.7.3.)
 
-In this example the latest Python version is 3.7.3, but this might be different if you download Python at a later time.
-
-The link will go to a page which looks like this (again, the version number might not be 3.7.3):
+The link will go to a page which looks like this (again, the version number will be higher than 3.7.3):
 
 ![Python3](Releases_2.png "Python 3")
 
