@@ -132,4 +132,4 @@ You are now ready to start experimenting with Python3 coding!
 
 As stated at the start of this page the IDLE editor is very basic. One of the superior code editors is called *Visual Studio Code*, which is distributed for free by *Microsoft*. Here is a link to a page with instructions for adding *Visual Studio Code*:
 
-* [Visual Studio Code](./Install-VSC)
+* [Visual Studio Code](./Install-VSC/README.md)
