@@ -2,7 +2,7 @@
 
 There are two main options:
 
-## Full Python installation
+## 1. Full Python installation
 
  This option involves downloading the Python installation file from Python's home website at www.python.org.
 
@@ -12,7 +12,7 @@ There are two main options:
 
 * [Instructions for full Python3 installation on Windows](Windows-full-installation/README.md)
 
-## Python installation combined with a dedicated Python editor
+## 2. Python installation combined with a dedicated Python editor
 
 There are a couple of options where you choose a dedicated Python code editor, and it comes packaged with its own version of Python. This takes the pain out of actually installing the Python code. The link below shows how you can install the *mu* editor for Python coding.
 
