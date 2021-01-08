@@ -6,6 +6,8 @@ This editor not only lets you write normal Python code it also
 
 1. makes it very easy to write Python programmes for the BBC microbit microprocessor
 
+![microbit](microbit.png "microbit")
+
 2. provides a very easy way to run your Python code using the _**Pygame Zero**_ Python extension
 
 To obtain the installation file go to the programme webpage at [https://codewith.mu/](https://codewith.mu/) and click on the *Download* button.
