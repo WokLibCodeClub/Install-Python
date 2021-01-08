@@ -19,3 +19,9 @@ The Terminal app is in the Utilities folder in Applications. To open it, either 
 You'll see a small window with a white background open on your desktop. In the title bar are your username, the word "bash" and the dimensions of the window in pixels.
 
 If you want to make the window bigger, click on the bottom right corner and drag it outwards. If you don't like the black text on a white background, go to the Shell menu, choose New Window and select from the options in the list.
+
+## Install a dedicated Python editor which comes packaged with Python3
+
+The other way of getting Python on your computer is to choose one of the dedicated Python code editors which come packaged with their own version of Python. This takes the pain out of actually installing the Python code. The link below shows how you can install the *mu* Python editor:
+
+* [Install the *mu* code editor with Python included](Windows-mu-editor/README.md)
