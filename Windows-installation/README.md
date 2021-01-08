@@ -28,6 +28,6 @@ You can find a detailed set of instructions for installing Python on your comput
 
 ### Python installation advice from realpython.com
 
-Here is another website which explains the difference between Code Editors and Integrated Development Environments, and suggests some other code editors you can use with Python:
+This website explains the difference between Code Editors and Integrated Development Environments, and suggests some other code editors you can use with Python:
 
 [https://realpython.com/python-ides-code-editors-guide/](https://realpython.com/python-ides-code-editors-guide/)
