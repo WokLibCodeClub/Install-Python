@@ -18,6 +18,8 @@ The other way of getting Python on your computer is to choose one of the dedicat
 
 * [Install the *mu* code editor with Python included](Windows-mu-installation/README.md)
 
+================================================================
+
 There are many other pages on the internet with guides to installing Python. Here are links to two other websites where you can get advice:
 
 ### Python installation advice from Raspberry Pi Foundation
