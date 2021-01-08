@@ -8,7 +8,7 @@ There are two main options:
 
  The full Python installation comes with a Python editor called IDLE, which is fairly basic. It allows you to write and test Python code, but lacks some of the helpful features found with other code editors.
 
- It is very common to install a better code editor to use with your full Python installation; the instructions at this link also show how you can add and use the *Visual Studio Code* editor.
+ (It is very common to install a better code editor to use with your full Python installation; at the end of this page is a link to instructions for installing the *Visual Studio Code* editor.)
 
 * [Instructions for full Python3 installation on Windows](Windows-full-installation/README.md)
 
