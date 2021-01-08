@@ -14,7 +14,7 @@ There are two main options:
 
 ## 2. Python installation combined with a dedicated Python editor
 
-The other way of getting Python on your computer is to choose one of the dedicated Python code editors which come packaged with their own version of Python. This takes the pain out of actually installing the Python code. The link below shows how you can install the *mu* editor for Python coding.
+The other way of getting Python on your computer is to choose one of the dedicated Python code editors which come packaged with their own version of Python. This takes the pain out of actually installing the Python code. The link below shows how you can install the *mu* Python editor:
 
 * [Install the *mu* code editor with Python included](Windows-mu-installation/README.md)
 
