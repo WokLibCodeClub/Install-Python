@@ -21,3 +21,9 @@ Select the version for your system and look at the *Instructions* page for your 
 If you are using Windows choose the 32-bit or 64-bit version depending on your operating system. (If you don't know which version you have then look at item 1 on the page [Windows full Python3 installation](../Windows-installation/Windows-full-installation/README.md)).
 
 ## Using *mu*
+
+Oopen
+
+## More information
+
+The *mu* website has lots of very helpful Tutorials.
