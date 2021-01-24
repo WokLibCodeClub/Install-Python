@@ -34,7 +34,7 @@ One important button is the **Mode** button at the top left. When you click on t
 
 The bottom option will enable you to write and run standard Python code. Other options enable you to programme the BBC microbit in Python, and to run programmes written with the Pygame Zero extension.
 
-Type your Python code in the edit window, then Save your file, with a .py extension. You will see the tab above your code has now changed from *untitled* to show the name of your programme:
+Type your Python code in the edit window, then click the **Save** button to save your file -  give it a .py extension. You will see the tab above your code has now changed from *untitled* to show the name of your programme:
 
 ![mu mode choices](Images/mu-02.png)
 
