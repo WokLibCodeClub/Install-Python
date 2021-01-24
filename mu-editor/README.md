@@ -10,7 +10,7 @@ This editor not only lets you write normal Python code it also
 
 ![microbit](microbit.png "microbit")
 
-2. provides a very easy way to run your Python code using the _**Pygame Zero**_ Python extension
+2. provides a very easy way to run your Python code using the ***Pygame Zero*** Python extension
 
 To obtain the installation file go to the programme webpage at [https://codewith.mu/](https://codewith.mu/) and click on the *Download* button.
 
@@ -22,7 +22,27 @@ If you are using Windows choose the 32-bit or 64-bit version depending on your o
 
 ## Using *mu*
 
-Oopen
+When you first open ***mu*** you will see this window:
+
+![mu initial window](Images/mu-00.png)
+
+The buttons across the top are the normal commands you usually see in Menus in Windows programmes.
+
+One key button is the Mode button at the top left. When you click on that it gives you choices for the mode you want your Python code to run in:
+
+![mu mode choices](Images/mu-01.png)
+
+The bottom option will enable you to write and run standard Python code. Other options enable you to programme the BBC microbit in Python, and to run programmes written with the Pygame Zero extension.
+
+Type your Python code in the edit window, then Save your file, with a .py extension. You will see the tab above your code has now changed from *untitled* to show the name of your programme:
+
+![mu mode choices](Images/mu-02.png)
+
+When you click on the Run button the code runs and the results are displayed in the results panel at the bottom:
+
+![mu mode choices](Images/mu-03.png)
+
+
 
 ## More information
 
