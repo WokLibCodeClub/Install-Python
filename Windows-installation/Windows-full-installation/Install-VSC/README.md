@@ -87,7 +87,7 @@ Click on any of the .py files in the Explorer pane to open this ready for editin
 
 ![Open editing window](Images/VSC-25.png)
 
-To run your code go to the **Run** menu and select "Run without Debugging":
+To run your code go to the **Run** menu and select "Run Without Debugging":
 
 ![Run without debugging](Images/VSC-26.png)
 
