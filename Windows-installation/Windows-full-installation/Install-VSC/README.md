@@ -82,3 +82,7 @@ If you have your Python project in its own folder there is a *very good* way to 
 You can now use the *VSC* explorer pane by clicking on the top left icon which enables you to see all the files in your project folder in the Explorer pane on the left:
 
 ![Explorer pane](Images/VSC-24.png "Explorer")
+
+Click on any of the .py files in the Explorer pane to open this ready for editing:
+
+![Open editing window](Images/VSC-25.png)
