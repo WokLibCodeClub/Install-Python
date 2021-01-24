@@ -8,7 +8,7 @@ This editor not only lets you write normal Python code it also
 
 1. makes it very easy to write Python programmes for the BBC microbit microprocessor
 
-![microbit](microbit.png "microbit")
+![microbit](Images/microbit.png "microbit")
 
 2. provides a very easy way to run your Python code using the ***Pygame Zero*** Python extension
 
@@ -28,7 +28,7 @@ When you first open ***mu*** you will see this window:
 
 The buttons across the top are the normal commands you usually see in Menus in Windows programmes.
 
-One key button is the Mode button at the top left. When you click on that it gives you choices for the mode you want your Python code to run in:
+One important button is the Mode button at the top left. When you click on that it gives you choices for the mode you want your Python code to run in:
 
 ![mu mode choices](Images/mu-01.png)
 
@@ -42,8 +42,8 @@ When you click on the Run button the code runs and the results are displayed in 
 
 ![mu mode choices](Images/mu-03.png)
 
-
-
 ## More information
 
-The *mu* website has lots of very helpful Tutorials.
+The *mu* website [https://codewith.mu/en/tutorials/](https://codewith.mu/en/tutorials/) has lots of very helpful Tutorials on all topics related to this software
+
+When you start writing more complex programmes you may need to use the **Debug** option to find any errors in your code. There is a tutorial here to show you how to do this.
