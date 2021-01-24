@@ -75,8 +75,9 @@ which shows you the programme window and gives an example of writing Python code
 
 When you are creating your own Python projects you will find it is a very good plan to create a *separate folder* for each project you work on. In the project folder you can put any Python code you write, but also images or sound files as well as any other background information which helps you with your project.
 
-If you have your Python project in its own folder there is a *very good* way to access your project in *Visual Studio Code*. Open the ```File``` menu and choose the open ```Open Folder...``` and navigate to your project folder. You can now use the *VSC* explorer pane by clicking on the top left icon:
+If you have your Python project in its own folder there is a *very good* way to access your project in *Visual Studio Code*. Open the ```File``` menu and choose the open ```Open Folder...``` and navigate to your project folder:
 
-![Open explorer](Images/VSC-2.png "Explorer")
+![Open explorer](Images/VSC-17.png "Explorer")
 
-which enables you to see all the files in your project folder.
+You can now use the *VSC* explorer pane by clicking on the top left icon which enables you to see all the files in your project folder:
+
