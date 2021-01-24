@@ -10,7 +10,7 @@ It is important to know this before choosing which Python file to download from 
 
 Open Windows **Settings** and search for "About" and open the page called "About your PC".
 
-![windows10_about](Windows10_system.png "Windows 10 System")
+![windows10_about](Images/Windows10_system.png "Windows 10 System")
 
 Under the section Device Specification you will find the heading System Type which will tell you if your computer is 64-bit or 32-bit.
 
@@ -34,7 +34,7 @@ If there isn't an icon called "System" but there is a category called "System an
 
 For Windows 7 the display will look like this:
 
-![alt text](Windows7_OS.png "Operating system")
+![alt text](Images/Windows7_OS.png "Operating system")
 
 The item labelled "System type:" will show you whether your operating system is 32-bit or 64-bit.
 
@@ -46,17 +46,17 @@ Click on the link below to go to the Python download page. If you right-click on
 
 Here is what the link looks like:
 
-![Python_Releases_Windows](Releases_1.png "Python Releases for Windows")
+![Python_Releases_Windows](Images/Releases_1.png "Python Releases for Windows")
 
 From the two options at the top of the page select the one called "Latest Python 3 Release". DO NOT select "Latest Python 2 Release"!! (The number of of the latest Python 3 release will be higher then 3.7.3.)
 
 The link will go to a page which looks like this (again, the version number will be higher than 3.7.3):
 
-![Python3](Releases_2.png "Python 3")
+![Python3](Images/Releases_2.png "Python 3")
 
 Scroll down until you find a section headed **Files**
 
-![Files](Files_to_choose.png "Files")
+![Files](Images/Files_to_choose.png "Files")
 
 Click the file link depending on whether your operating system is 32-bit or 64-bit. The file will either start downloading straight away into your Downloads folder, or you may be asked where on your computer you want to save the file. Choose where to save it, then click OK.
 
@@ -66,21 +66,21 @@ Open File Explorer (if you have Windows 8 or 10) or Windows Explorer (if you hav
 
 You will probably see a *User Account Control* window like this:
 
-![UAC](Security_warning.png "Security Warning")
+![UAC](Images/Security_warning.png "Security Warning")
 
 Click Yes. This will open the first Set up window:
 
-![Install Python](Setup_1.png "Setup 1")
+![Install Python](Images/Setup_1.png "Setup 1")
 
 If there is a tick box at the bottom labelled "Add Python to PATH" then make sure there is a tick in the box. (This box may have been removed in later versions of Python.)
 
 Then click on *Customize installation*. This will open the second Set up window:
 
-![Optional Features](Setup_2.png "Setup 2")
+![Optional Features](Images/Setup_2.png "Setup 2")
 
 There is nothing to be changed on this page, so click Next to open the third Set up window:
 
-![Advanced Options](Setup_3_advised.png "Setup 3")
+![Advanced Options](Images/Setup_3_advised.png "Setup 3")
 
 Check there is a tick in the box for "Add Python to environment variables".
 
@@ -106,23 +106,23 @@ Once the installation is finished click on the Windows icon or press the Windows
 
 Click on this to open up the *Python Shell* window:
 
-![Shell1](PythonShell.png "Shell")
+![Shell1](Images/PythonShell.png "Shell")
 
 Click to open the File menu and choose New... 
 
-![Shell2](PythonShell2.png "Shell2")
+![Shell2](Images/PythonShell2.png "Shell2")
 
 to open a blank Python programme window which will be called "Untitled". You can type your Python3 code in this window.
 
-![Programme1](Pythonprog1.png "prog1")
+![Programme1](Images/Pythonprog1.png "prog1")
 
 You need to *save* your code before you can test it. Do this by choosing the File menu and clicking Save As...
 
-![Programme2](Pythonprog2.png "prog2")
+![Programme2](Images/Pythonprog2.png "prog2")
 
 Once you've *saved* your code, which should be in a file which has the extension ```.py``` you can test it by choosing the Run menu and clicking Run Module
 
-![Programme3](Pythonprog3.png "prog3")
+![Programme3](Images/Pythonprog3.png "prog3")
 
 This example code will produce output in the Python shell.
 
