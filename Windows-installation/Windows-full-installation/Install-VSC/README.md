@@ -86,3 +86,11 @@ You can now use the *VSC* explorer pane by clicking on the top left icon which e
 Click on any of the .py files in the Explorer pane to open this ready for editing:
 
 ![Open editing window](Images/VSC-25.png)
+
+To run your code go to the **Run** menu and select "Run without Debugging":
+
+![Run without debugging](Images/VSC-26.png)
+
+The output is shown in a Terminal window at the bottom:
+
+![Run in terminal](Images/VSC-27.png)
