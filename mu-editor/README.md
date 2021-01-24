@@ -28,7 +28,7 @@ When you first open ***mu*** you will see this window:
 
 The buttons across the top are the normal commands you usually see in Menus in Windows programmes.
 
-One important button is the Mode button at the top left. When you click on that it gives you choices for the mode you want your Python code to run in:
+One important button is the **Mode** button at the top left. When you click on that it gives you choices for the mode you want your Python code to run in:
 
 ![mu mode choices](Images/mu-01.png)
 
