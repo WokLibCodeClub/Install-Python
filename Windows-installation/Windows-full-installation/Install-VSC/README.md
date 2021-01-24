@@ -77,6 +77,6 @@ When you are creating your own Python projects you will find it is a very good p
 
 If you have your Python project in its own folder there is a *very good* way to access your project in *Visual Studio Code*. Open the ```File``` menu and choose the open ```Open Folder...``` and navigate to your project folder. You can now use the *VSC* explorer pane by clicking on the top left icon:
 
-![Open explorer](VSC-2.png "Explorer")
+![Open explorer](Images/VSC-2.png "Explorer")
 
 which enables you to see all the files in your project folder.
