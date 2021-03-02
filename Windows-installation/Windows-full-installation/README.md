@@ -94,8 +94,6 @@ C:\Users\<your name>\AppData\Local\Programs\Python\Python37
 
 We strongly recommend changing this to ```C:\Python```. This will make your Python installation more accessible to other Python extensions, like Pygame Zero.
 
-(Note: if you are installing a later version of Python the number 37 should be replaced with a higher number.)
-
 Once you have changed the install location click on Install. This will probably open another *User Account Control* window, like the one above.
 
 Click on Yes to complete the Python installation. This may take a few minutes.
