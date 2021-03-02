@@ -92,7 +92,7 @@ C:\Users\<your name>\AppData\Local\Programs\Python\Python37
 
 (Note: if you are installing a later version than Python 3.7.3 then the number 37 will be a higher number.)
 
-We strongly recommend changing this to ```C:\Python\Python37```. This will make your Python installation more accessible to other Python extensions, like Pygame Zero.
+We strongly recommend changing this to ```C:\Python\Python```. This will make your Python installation more accessible to other Python extensions, like Pygame Zero.
 
 (Note: if you are installing a later version of Python the number 37 should be replaced with a higher number.)
 
